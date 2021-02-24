@@ -1,0 +1,25 @@
+{
+  "name": "kwangwoonuniv_mileageservicetoken",
+  "version": "1.0.0",
+  "description": "광운대학교 산학협력 프로젝트에 사용되는 블록체인 암호화폐",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.0",
+    "@truffle/hdwallet-provider": "^1.2.2",
+    "truffle": "^5.1.67"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValuableCodeMakers/KwangWoonUniv_MileageServiceToken.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValuableCodeMakers/KwangWoonUniv_MileageServiceToken/issues"
+  },
+  "homepage": "https://github.com/ValuableCodeMakers/KwangWoonUniv_MileageServiceToken#readme"
+}
